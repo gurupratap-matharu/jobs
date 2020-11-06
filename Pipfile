@@ -14,6 +14,7 @@ dj-database-url = "*"
 whitenoise = "*"
 psycopg2-binary = "*"
 django-allauth = "==0.43.0"
+factory-boy = "*"
 
 [requires]
 python_version = "3.8"
