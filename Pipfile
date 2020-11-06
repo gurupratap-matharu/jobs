@@ -11,6 +11,9 @@ autopep8 = "*"
 django = "*"
 gunicorn = "==20.0.4"
 dj-database-url = "*"
+whitenoise = "*"
+psycopg2-binary = "*"
+django-allauth = "==0.43.0"
 
 [requires]
 python_version = "3.8"
